@@ -1,3 +1,7 @@
+[失效]
+
+
+
 /bin/bash baiduyun-accelerator redirection-url [split-number]
 
 redirection-url是重定向的下载地址，可以在浏览器中点击下载，在下载队列 - 详情中找到Redirection；注意该地址会在一段时间后过期
